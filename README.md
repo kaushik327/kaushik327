@@ -1,4 +1,4 @@
-## Hi there 👋
+Hi, I'm Kaushik! Check out [my website](https://kaushikv.com/) to see what I'm up to.
 
 <!--
 **kaushik327/kaushik327** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
